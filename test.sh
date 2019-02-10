@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -f /bin/libmlogger.a ]; then
+if [ ! -f bin/libmlogger.a ]; then
 	python3 build.py
 fi
 
