@@ -1,5 +1,4 @@
 # Mint Logger v0.1
----
 
 ### About
 ---
